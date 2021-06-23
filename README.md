@@ -1,4 +1,4 @@
-# SHAPRAI_WEATHER_DATA
+# SHAPEAI_WEATHER_DATA
 Bootcamp on Basic Python and Network Security - 7 days
 by SHAPEAI.
 
